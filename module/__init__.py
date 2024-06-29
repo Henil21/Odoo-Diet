@@ -7,5 +7,6 @@ app.secret_key = 'asdfgh'
 
 from module import *
 from .model import *
+from .authentication import *
 
 from .app import *
